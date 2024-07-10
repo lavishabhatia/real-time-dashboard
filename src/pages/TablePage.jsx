@@ -1,4 +1,3 @@
-// src/pages/TablePage.js
 import React from 'react';
 import TableWidget from '../component/TableWidget';
 
